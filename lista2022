@@ -1,0 +1,9 @@
+#EXTM3U
+
+#EXTINF:0 type="stream" channelId="50" group="Canais: Ao Vivo", ANIMAL PLANET HD
+
+http://50.7.34.155:2200/BR/Animal_Planet_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+
+#EXTINF:0 type="stream" channelId="2572" group="Canais: Ao Vivo", ARTE 1 HD
+
+https://assistirtv.xyz/arte1/video.m3u8?token=12f31af13e5cf2ee9b6769a3bb2e788f48b21abb-4ff453de53dd874adaf789d76dfafc95-1648760833-1648757233&remote=172.68.25.229
